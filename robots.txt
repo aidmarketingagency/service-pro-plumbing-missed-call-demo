@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aidmarketingagency.github.io/service-pro-plumbing-missed-call-demo/sitemap.xml
